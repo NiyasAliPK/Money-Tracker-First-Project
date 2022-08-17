@@ -1,16 +1,15 @@
-# money_management_app_using_flutter
+MONEY TRACKER
 
-A new Flutter project.
+Easily record your personal and business financial transactions, generate spending reports, review your daily, weekly, and monthly financial data and manage your assets with Money Tracker spending tracker and budget planner.
 
-## Getting Started
+FEATURES AND TECHNOLOGIES USED:-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add, delete, edit transactions.
+Category wise transaction sorting.
+User can set reminder notifications.
+Transactions represented in pie charts.
+Store image of bill for the transaction.
+Hive for database.
+Flutter Local notification package for notifications.
+Getx for state management and routing.
+Lottie package for animations.
